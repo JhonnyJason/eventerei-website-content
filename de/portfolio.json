@@ -1,0 +1,99 @@
+{
+    "languageTag": "de",
+    "pageTitle": "Eventerei - Portfolio",
+    "pageDescription": "Sample Page Description",
+    "sharedContent": {
+        "menuLinkStart": "Start",
+        "menuLinkPortfilio": "Portfolio",
+        "menuLinkImpressionen": "Impressionen",
+        "menuLinkPartner": "Partner",
+        "menuLinkUbermich": "My Story",
+        "menuLinkFaq": "FAQ",
+        "menuLinkKontakt": "Kontakt",
+
+        "impressumLink": "Impressum",
+        "impressumLinkRef": "/impressum.html",
+        "agbLink": "AGB",
+        "agbLinkRef": "/AGB.pdf",
+        "datenschutzLink": "Datenschutz",
+        "datenschutzLinkRef": "/Datenschutz.pdf",
+
+        "contactBlockTitle": "Kontakt",
+        "contactBlockParagraph": "Eventerei - Sabina Wachmann, MA<br> Tel.: <a href='tel:+436646329357'> +43 (0)664 632 93 57</a> <br> E-Mail: <a href='mailto:sabina@eventerei.at'> sabina@eventerei.at</a>",
+        "contactAddressParagraph": "Lambergweg 9 <br> A-8041 Graz",
+
+        "copyrightBlockParagraph": "Copyright 2020"
+    },
+    "content": {
+        "pageQuoteQuote": "Portfolio Events & Hochzeiten",
+        "pageQuoteSignature": "Eventerei by Sabina Wachmann",
+        "eventsPortfolioTitle": "Portfolio Events",
+        "eventsPortfolioSubtitle": "Mit einem feinen Sinn für die Wünsche der Kunden kreiere ich für Sie Erlebnisse mit liebevollen Details, die in Erinnerung bleiben.",
+        "eventsPortfolioParagraphs": [
+            "Sie haben eine außergewöhnliche Idee, jedoch keine Zeit für die Umsetzung? Basierend auf kreativen Konzepten, fundierter Recherche und Vorbereitung setze ich Ihre Wünsche professionell, mit dem gewissen Etwas um. Ob Sommerparty in den Weinbergen, prachtvolle Awardverleihung oder Pop Up Event am Berg - die Eventerei sprudelt nur so vor kreativen und einzigartigen Ideen. Ich kümmere mich um die gesamte Abwicklung und Sie können vor allem eins: tief durchatmen und entspannen."
+        ],
+        "eventPortfolioCards": [
+            {
+                "title": "Mitarbeiter Events /Incentives",
+                "paragraph": "Ihre Gäste werden das Besondere an diesm Anlass genießen, garantiert!<br> durch unser Partner-Netzwerk sind uns keine Grenzen gesetzt und können diese beinahe überall realisieren"
+            },
+            {
+                "title": "Kongresse- Messe- und Seminarmanagement",
+                "paragraph": "Verlassen Sie sich auf unsere professionelle Planung und Umsetzung von Kongressen, Seminaren und Tagungen."
+            },
+            {
+                "title": "Produktpräsentation & Awardverleihungen",
+                "paragraph": "Marken mit Emotionen transportieren"
+            },
+            {
+                "title": "Kreativschmiede",
+                "paragraph": "sollte Ihnen die zündende Idee noch fehlen"
+            },
+            {
+                "title": "Pop Up Events",
+                "paragraph": "unerwartete Events an einzigartigen Orten - genau unser Geschmack"
+            },
+            {
+                "title": "Leihutensilien",
+                "paragraph": ""
+            }
+        ],
+      
+        "hochzeitenPortfolioTitle": "Portfolio Hochzeiten",
+        "hochzeitenPortfolioSubtitle": "Maßgeschneiderte Erlebnisse mit Liebe geplant",
+        "hochzeitenPortfolioParagraphs": [
+            "Mit einem feinen Sinn für die Wünsche der Kunden kreiere ich für Sie Erlebnisse mit liebevollen Details, die in Erinnerung bleiben."
+        ],
+        "greatDayCardTitle": "Der große Tag",
+        "greatDayCardParagraph": "Ihr habt die Planung bereits selbst fest im Griffund sucht für euren großen Tag eine Unterstützung? Vorab besprechen wir gemeinsam den Ablauf im Detail- ich nehme Kontakt zu all euren gebuchten Dienstleistern auf und erstelle einen Individuellen Zeitplan. Gleichzeitig agiere ich als Ansprechsperson und koordiniere euren großen Tag vor Ort und bin euer Ruhepol.",
+        "individualPLanningTitle": "Individuelle Gesamtplanung",
+        "individualPlanningParagraph": "Ihr steht noch am Beginn eurer Planung und wisst nicht wo und wie ihr beginnen sollt? Eure Wünsche und Ideen nehme ich in die Planung mit auf und verwandle sie in eine unvergessliche Veranstaltung für euch und eure Liebsten. Ich begleite euch bei jedem Schritt und bin für euch da.",
+        "individualPlanningSubtitle": "Leistungen:",
+        "individualPlanningServices": [
+            "service 1",
+            "service 2"
+        ],
+        "partialPlanningTitle": "Teilplanung",
+        "partialPlanningParagraph": "Ihr seit bereits mitten in euerer Planung und möchtet gerne bestimmte Teilbereiche in die Hände eines Profis legen?",
+        "borrowNotBuyTitle": "Schönes erhalten Mieten statt Kaufen",
+
+        "toolsPortfolioTitle": "Portfolio Leihutensilien",
+        "toolsQuoteQuote": "Wahrer Reichtum liegt nicht in den Dingen, die ich besitze, sodnern in den Momenten die mein Herz berühren.",
+        "toolsQuoteAuthor": "Roswitha Bloch",
+
+        "toolsGalleryParagraph": "Zustellung, Aufbau und Abholung der Leihutensilien kann natürlich hinzugebucht werden.",
+
+        "toolsFormAction": "https://formspree.io/eventerei-test@weblenny.at",
+        "toolsFormMessageLabel": "Ich interessiere mich für",
+        "toolsFormAmountLabel": "Anzahl",
+        "toolsFormDateLabel": "Datum der Veranstaltung",
+        "toolsFormEmailLabel": "E-Mail Adresse",
+        "toolsFormPhoneLabel": "Telefonnummer",
+        "toolsFormAddressLabel": "Adresse",
+        "toolsFormPickupLabel": "Selbstabholung",
+        "toolsFormHelpLabel": "Auf-/Abbau gewünscht",
+        "toolsFormButton": "Senden",
+
+        "calltoactionTitle": "<a href='/ubermich.html'> Im feinen Detail liegt der Unterschied, <br> ich zeige es dir... </a>"
+    }    
+}
