@@ -1,3 +1,57 @@
 {
-    
+    "languageTag": "de",
+    "pageTitle": "Eventerei - FAQ",
+    "pageDescription": "Sample Page Description",
+    "sharedContent": {
+        "menuLinkStart": "Start",
+        "menuLinkPortfilio": "Portfolio",
+        "menuLinkImpressionen": "Impressionen",
+        "menuLinkPartner": "Partner",
+        "menuLinkUbermich": "My Story",
+        "menuLinkFaq": "FAQ",
+        "menuLinkKontakt": "Kontakt",
+
+        "impressumLink": "Impressum",
+        "impressumLinkRef": "/impressum.html",
+        "agbLink": "AGB",
+        "agbLinkRef": "/AGB.pdf",
+        "datenschutzLink": "Datenschutz",
+        "datenschutzLinkRef": "/Datenschutz.pdf",
+
+        "contactBlockTitle": "Kontakt",
+        "contactBlockParagraph": "Eventerei - Sabina Wachmann, MA<br> Tel.: <a href='tel:+436646329357'> +43 (0)664 632 93 57</a> <br> E-Mail: <a href='mailto:sabina@eventerei.at'> sabina@eventerei.at</a>",
+        "contactAddressParagraph": "Lambergweg 9 <br> A-8041 Graz",
+
+        "copyrightBlockParagraph": "Copyright 2020"
+    },
+    "content": {
+        "pageQuoteQuote": "My Story",
+        "pageQuoteSignature": "Eventerei by Sabina Wachmann",
+
+        "storyTextTitle": "NATURFREUNDIN MIT SINN FÜR SCHÖNES",
+        "storyTextSubtitle": "My Story",
+        "storyTextParagraphs": [
+            "Nach meinem Studium fasste ich Fuß im Vertrieb der Hotellerie und am Red Bull Ring, wo ich viele erlebnisreiche und glanzvolle Veranstaltungen für unterschiedlichste Unternehmen organisieren und verkaufen durfte. Durch meine mehr als 5-jährige Erfahrung in der Eventbranche, kenne ich ganz genau die Ingredienzien erfolgreicher Veranstaltungen und schaffe gemeinsam mit euch als diplomierte Hochzeitsplanerin einzigartige Erlebnisse."
+        ],
+
+        "aboutmeSubtitle": "About Me",
+        "aboutmeParagraphs": [
+            "<b>Naturfreundin</b>: in der Natur bekomme ich einen freien Kopf. Mit meinen Lieblingsmenschen bin ich liebend gerne in den schönen Bergen Österreichs unterwegs und genieße die Aussicht, die unbeschreiblich schönen Bergseen und natürlich auch die ein oder andere Hütteneinkehr mit österreichischer Hausmannskost - Herz was willst du mehr.",
+            "<b>Sinn für Schönes</b>: ich liebe Details und Akzente, die jede Veranstaltung perfekt unterstützen und diese zu einer unvergesslichen werden lassen – genau hier liegt der feine Unterschied. Mein Qualitätsbewusstsein zeigt sich in der Auswahl von Stoffen, Dekoration und Auswahl von regionalen Dienstleistern. Vorallem Outdoor Events und Veranstaltungen in außergewöhnlichen Locations haben es mir sehr angetan."
+        ],
+
+        "eventereiHeading": "Eventerei",
+        "eventereiSubtitle": "Was steckt hinter dem Namen „Eventerei“?",
+        "eventereiParagraphs": [
+            "Bei Wörtern, die in der deutschen Sprache auf „-erei“enden, handelt es sich meist um Begriffe, die ein Handwerk wiedergeben, das der damit angesprochenen Person oder Leistung vollkommen entspricht. So auch bei der Eventerei, wo mit viel Herzblut und Engagement individuelle Momente des Glücks erschaffen werden."
+        ],
+
+        "quoteQuote": "EINE MARKE, EIN PRODUKT SOWIE EIN EVENT, IST WIE EINE GROSSE LIEBE: SIE WILL ERGRÜNDET, BEGEHRT UND GEPFLEGT WERDEN.",
+
+        "outroTextSubtitle": "NACHHALTIGKEIT - SCHÖNES ERHALTEN",
+        "outroTextParagraph": "Nachhaltigkeit - ein Lebensstil, der mir besonders am Herz liegt. Jeder noch so kleine Beitrag zählt, natürlich auch an eurem besonderen Tag oder Veranstaltung, an dem ausgelassen gefeiert werden soll. Angefangen von nachhaltigem Konfetti, nachhaltiger Floristik, nachhaltigen Drucksorten, bis hin zu Dekoration mieten, anstatt diese zu kaufen. Ich freue mich, wenn ich euch mit kleinen Tipps davon begeistern darf."
+
+
+ 
+    }    
 }
