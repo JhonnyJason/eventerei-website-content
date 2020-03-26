@@ -1,7 +1,11 @@
 {
     "languageTag": "de",
-    "pageTitle": "Eventerei - FAQ",
+    "pageTitle": "Eventerei - My Story",
+    "pageLocale":"de_DE",
+    "pageURL":"https://eventerei.at/ubermich",
     "pageDescription": "Sample Page Description",
+    "pageImageURL": "https://eventerei.at/img/logo.svg",
+    "pageType": "website",
     "sharedContent": {
         "menuLinkStart": "Start",
         "menuLinkPortfilio": "Portfolio",
@@ -50,8 +54,6 @@
 
         "outroTextSubtitle": "NACHHALTIGKEIT - SCHÖNES ERHALTEN",
         "outroTextParagraph": "Nachhaltigkeit - ein Lebensstil, der mir besonders am Herz liegt. Jeder noch so kleine Beitrag zählt, natürlich auch an eurem besonderen Tag oder Veranstaltung, an dem ausgelassen gefeiert werden soll. Angefangen von nachhaltigem Konfetti, nachhaltiger Floristik, nachhaltigen Drucksorten, bis hin zu Dekoration mieten, anstatt diese zu kaufen. Ich freue mich, wenn ich euch mit kleinen Tipps davon begeistern darf."
-
-
  
     }    
 }

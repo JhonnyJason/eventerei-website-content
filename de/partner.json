@@ -1,7 +1,11 @@
 {
     "languageTag": "de",
     "pageTitle": "Eventerei - Partner",
+    "pageLocale":"de_DE",
+    "pageURL":"https://eventerei.at/partner",
     "pageDescription": "Sample Page Description",
+    "pageImageURL": "https://eventerei.at/img/logo.svg",
+    "pageType": "website",
     "sharedContent": {
         "menuLinkStart": "Start",
         "menuLinkPortfilio": "Portfolio",

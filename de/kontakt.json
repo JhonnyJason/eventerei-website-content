@@ -1,7 +1,11 @@
 {
     "languageTag": "de",
-    "pageTitle": "Eventerei - FAQ",
+    "pageTitle": "Eventerei - Kontakt",
+    "pageLocale":"de_DE",
+    "pageURL":"https://eventerei.at/kontakt",
     "pageDescription": "Sample Page Description",
+    "pageImageURL": "https://eventerei.at/img/logo.svg",
+    "pageType": "website",
     "sharedContent": {
         "menuLinkStart": "Start",
         "menuLinkPortfilio": "Portfolio",
@@ -41,5 +45,23 @@
         "quoteQuote": "Alles, worauf die Liebe wartet, ist die Gelegenheit.",
         "quoteAuthor": "Miguel de Cervantes"
 
-    }    
+    },
+    "images": {
+        "logoFrameRow": {
+            "name": "logo.svg",
+            "width":"180",
+            "height": "180"
+        },
+        "bannerImageRow": {
+            "name": "kontakt.jpg",
+            "width": "1920",
+            "height": "440"
+        },
+        "kontakgImage": {
+            "name": "kontakt-image.jpg",
+            "width": "280",
+            "height": "470"
+        }
+        
+    }  
 }
