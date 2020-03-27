@@ -53,7 +53,114 @@
         "quoteQuote": "EINE MARKE, EIN PRODUKT SOWIE EIN EVENT, IST WIE EINE GROSSE LIEBE: SIE WILL ERGRÜNDET, BEGEHRT UND GEPFLEGT WERDEN.",
 
         "outroTextSubtitle": "NACHHALTIGKEIT - SCHÖNES ERHALTEN",
-        "outroTextParagraph": "Nachhaltigkeit - ein Lebensstil, der mir besonders am Herz liegt. Jeder noch so kleine Beitrag zählt, natürlich auch an eurem besonderen Tag oder Veranstaltung, an dem ausgelassen gefeiert werden soll. Angefangen von nachhaltigem Konfetti, nachhaltiger Floristik, nachhaltigen Drucksorten, bis hin zu Dekoration mieten, anstatt diese zu kaufen. Ich freue mich, wenn ich euch mit kleinen Tipps davon begeistern darf."
+        "outroTextParagraph": "Nachhaltigkeit - ein Lebensstil, der mir besonders am Herz liegt. Jeder noch so kleine Beitrag zählt, natürlich auch an eurem besonderen Tag oder Veranstaltung, an dem ausgelassen gefeiert werden soll. Angefangen von nachhaltigem Konfetti, nachhaltiger Floristik, nachhaltigen Drucksorten, bis hin zu Dekoration mieten, anstatt diese zu kaufen. Ich freue mich, wenn ich euch mit kleinen Tipps davon begeistern darf.",
+
+        "image1": {
+            "url": "/img/ubermich-gallery-image1.jpg"
+        },
+        "image2": {
+            "url": "/img/ubermich-gallery-image2.jpg"
+        },
+        "image3": {
+            "url": "/img/ubermich-gallery-image3.jpg"
+        },
+        "image4": {
+            "url": "/img/ubermich-gallery-image4.jpg"
+        },
+        "image5": {
+            "url": "/img/ubermich-gallery-image5.jpg"
+        },
+        "image6": {
+            "url": "/img/ubermich-gallery-image6.jpg"
+        }
  
-    }    
+    },
+    "images": {
+        "logoFrameRow": {
+            "name": "logo.svg",
+            "width":"180",
+            "height": "180"
+        },
+        "bannerImageRow": {
+            "name": "ubermich.jpg",
+            "width": "1920",
+            "height": "440"
+        },
+        "storyImage": {
+            "name": "ubermich-story-image.jpg",
+            "width": "300",
+            "height": "400"
+        },
+        "aboutmeImage": {
+            "name": "ubermich-aboutme-image.jpg",
+            "width": "300",
+            "height": "400"
+        },
+        "eventereiImage": {
+            "name": "ubermich-aboutme-image.jpg",
+            "width": "950",
+            "height": "310"
+        },
+        "image1": {
+            "name": "ubermich-gallery-image1.jpg",
+            "width": "1920",
+            "height": "1080",
+            "thumbnail": {
+                "name": "ubermich-gallery-image1-thumbnail.jpg",
+                "width": "350",
+                "height": "240"    
+            }
+        },
+        "image2": {
+            "name": "ubermich-gallery-image2.jpg",
+            "width": "1920",
+            "height": "1080",
+            "thumbnail": {
+                "name": "ubermich-gallery-image2-thumbnail.jpg",
+                "width": "350",
+                "height": "240"    
+            }
+        },
+        "image3": {
+            "name": "ubermich-gallery-image3.jpg",
+            "width": "1920",
+            "height": "1080",
+            "thumbnail": {
+                "name": "ubermich-gallery-image3-thumbnail.jpg",
+                "width": "350",
+                "height": "240"    
+            }
+        },
+        "image4": {
+            "name": "ubermich-gallery-image4.jpg",
+            "width": "1920",
+            "height": "1080",
+            "thumbnail": {
+                "name": "ubermich-gallery-image4-thumbnail.jpg",
+                "width": "350",
+                "height": "240"    
+            }
+        },
+        "image5": {
+            "name": "ubermich-gallery-image5.jpg",
+            "width": "1920",
+            "height": "1080",
+            "thumbnail": {
+                "name": "ubermich-gallery-image5-thumbnail.jpg",
+                "width": "350",
+                "height": "240"    
+            }
+        },
+        "image6": {
+            "name": "ubermich-gallery-image6.jpg",
+            "width": "1920",
+            "height": "1080",
+            "thumbnail": {
+                "name": "ubermich-gallery-image6-thumbnail.jpg",
+                "width": "350",
+                "height": "240"    
+            }
+        }
+
+    } 
 }
