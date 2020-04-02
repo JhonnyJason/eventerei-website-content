@@ -15,12 +15,18 @@
         "menuLinkFaq": "FAQ",
         "menuLinkKontakt": "Kontakt",
 
-        "impressumLink": "Impressum",
-        "impressumLinkRef": "/impressum.html",
-        "agbLink": "AGB",
-        "agbLinkRef": "/AGB.pdf",
-        "datenschutzLink": "Datenschutz",
-        "datenschutzLinkRef": "/Datenschutz.pdf",
+        "impressumLink": {
+            "text": "Impressum",
+            "ref": "/impressum.html"
+        },
+        "agbLink": {
+            "text": "AGB",
+            "ref": "/AGB.pdf"
+        },
+        "datenschutzLink":{
+            "text": "Datenschutz",
+            "ref": "/Datenschutz.pdf"
+        },
 
         "contactBlockTitle": "Kontakt",
         "contactBlockParagraph": "Eventerei - Sabina Wachmann, MA<br> Tel.: <a href='tel:+436646329357'> +43 (0)664 632 93 57</a> <br> E-Mail: <a href='mailto:sabina@eventerei.at'> sabina@eventerei.at</a>",
@@ -126,12 +132,19 @@
         "toolsQuoteAuthor": "Roswitha Bloch",
 
         "toolsGalleryParagraph": "Zustellung, Aufbau und Abholung der Leihutensilien kann natürlich hinzugebucht werden.",
-        "toolsImage1Ref":"/img/tools-image1.jpg",
-        "toolsImage2Ref":"/img/tools-image2.jpg",
-        "toolsImage3Ref":"/img/tools-image3.jpg",
-        "toolsImage4Ref":"/img/tools-image4.jpg",
+        "toolsImage1":{
+            "ref": "/img/tools-image1.jpg"
+        },
+        "toolsImage2":{
+            "ref": "/img/tools-image2.jpg"
+        },
+        "toolsImage3": {
+            "ref": "/img/tools-image3.jpg"
+        },
+        "toolsImage4": {
+            "ref": "/img/tools-image4.jpg"
+        },
         
-
         "toolsFormAction": "https://formspree.io/eventerei-test@weblenny.at",
         "toolsFormMessageLabel": "Ich interessiere mich für",
         "toolsFormAmountLabel": "Anzahl",

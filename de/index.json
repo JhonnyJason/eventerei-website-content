@@ -15,12 +15,18 @@
         "menuLinkFaq": "FAQ",
         "menuLinkKontakt": "Kontakt",
 
-        "impressumLink": "Impressum",
-        "impressumLinkRef": "/impressum.html",
-        "agbLink": "AGB",
-        "agbLinkRef": "/AGB.pdf",
-        "datenschutzLink": "Datenschutz",
-        "datenschutzLinkRef": "/Datenschutz.pdf",
+        "impressumLink": {
+            "text": "Impressum",
+            "ref": "/impressum.html"
+        },
+        "agbLink": {
+            "text": "AGB",
+            "ref": "/AGB.pdf"
+        },
+        "datenschutzLink":{
+            "text": "Datenschutz",
+            "ref": "/Datenschutz.pdf"
+        },
 
         "contactBlockTitle": "Kontakt",
         "contactBlockParagraph": "Eventerei - Sabina Wachmann, MA<br> Tel.: <a href='tel:+436646329357'> +43 (0)664 632 93 57</a> <br> E-Mail: <a href='mailto:sabina@eventerei.at'> sabina@eventerei.at</a>",
@@ -41,18 +47,26 @@
         "quoteQuote": "Wo Liebe ist,<br> wird das Unmögliche möglich",
         "quoteAuthor": "Buddha",
 
-        "cardLink1Title": "Der Feine Unterschied...",
-        "cardLink1Subtitle": "Mehr über mich.",
-        "cardLink1Ref": "/ubermich.html",
-        "cardLink2Title": "Thingking Green Never Goes out of Style.",
-        "cardLink2Subtitle": "Mehr über mein Angebot.",
-        "cardLink2Ref": "/portfolio.html#tools",
-        "cardLink3Title": "",
-        "cardLink3Subtitle": "",
-        "cardLink3Ref": "/#link3",
-        "cardLink4Title": "",
-        "cardLink4Subtitle": "",
-        "cardLink4Ref": "/#link4",
+        "cardLink1": {
+            "title": "Der Feine Unterschied...",
+            "subtitle": "Mehr über mich.",
+            "ref": "/ubermich.html"
+        },
+        "cardLink2": {
+            "title": "Thingking Green Never Goes out of Style.",
+            "subtitle": "Mehr über mein Angebot.",
+            "ref": "/portfolio.html#tools"
+        },
+        "cardLink3": {
+            "title": "",
+            "subtitle": "",
+            "ref": "#no-link-yet"
+        },
+        "cardLink4": {
+            "title": "",
+            "subtitle": "",
+            "ref": "#no-link-yet"
+        },
 
         "showcaseSubtitle": "#EventereiGraz",
         "showcaseImages": [
