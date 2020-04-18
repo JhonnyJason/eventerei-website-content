@@ -53,11 +53,6 @@
 
     },
     "images": {
-        "logoFrameRow": {
-            "name": "logo.svg",
-            "width":"180",
-            "height": "180"
-        },
         "bannerImageRow": {
             "name": "kontakt.jpg",
             "width": "1920",

@@ -90,11 +90,6 @@
 
     },
     "images": {
-        "logoFrameRow": {
-            "name": "logo.svg",
-            "width":"180",
-            "height": "180"
-        },
         "bannerImageRow": {
             "name": "start.jpg",
             "width": "1920",
@@ -102,6 +97,11 @@
         },
         "bannerBackgroundEvents": {
             "name": "startpage-banner-events-background.jpg",
+            "width": "960",
+            "height": "300"
+        },
+        "bannerBackgroundHochzeiten": {
+            "name": "startpage-banner-hochzeiten-background.jpg",
             "width": "960",
             "height": "300"
         },

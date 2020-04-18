@@ -50,11 +50,6 @@
         "encouragementRowTitle":"Ja ich will, Kooperationspartner werden."
     },
     "images": {
-        "logoFrameRow": {
-            "name": "logo.svg",
-            "width":"180",
-            "height": "180"
-        },
         "bannerImageRow": {
             "name": "partner.jpg",
             "width": "1920",

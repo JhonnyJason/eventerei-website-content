@@ -179,11 +179,6 @@
         "calltoactionTitle": "<a href='/ubermich.html'> Im feinen Detail liegt der Unterschied, <br> ich zeige es dir... </a>"
     },
     "images": {
-        "logoFrameRow": {
-            "name": "logo.svg",
-            "width":"180",
-            "height": "180"
-        },
         "bannerImageRow": {
             "name": "portfolio.jpg",
             "width": "1920",
