@@ -1,1 +1,166 @@
-{"languageTag":"de","pageTitle":"Eventerei","pageLocale":"de_DE","pageURL":"https://eventerei.at","pageDescription":"Sample Page Description","pageImageURL":"https://eventerei.at/img/logo.svg","pageType":"website","sharedContent":{"menuLinkStart":"Start","menuLinkPortfilio":"Portfolio","menuLinkImpressionen":"Impressionen","menuLinkPartner":"Partner","menuLinkUbermich":"My Story","menuLinkFaq":"FAQ","menuLinkKontakt":"Kontakt","impressumLink":{"text":"Impressum","ref":"/impressum.html"},"agbLink":{"text":"AGB","ref":"/AGB.pdf"},"datenschutzLink":{"text":"Datenschutz","ref":"/Datenschutz.pdf"},"contactBlockTitle":"Kontakt","contactBlockParagraph":"Eventerei - Sabina Wachmann, MA<br> Tel.: <a href='tel:+436646329357'> +43 (0)664 632 93 57</a> <br> E-Mail: <a href='mailto:sabina@eventerei.at'> sabina@eventerei.at</a>","contactAddressParagraph":"Lambergweg 9 <br> A-8041 Graz","copyrightBlockParagraph":"Copyright 2020"},"content":{"pageQuoteQuote":"Herzlich Willkommen","pageQuoteSignature":"Eventerei by Sabina Wachmann","introTextTitle":"Über Eventerei","introTextSubtitle":"Ihr Fest mit Liebe geplant","introTextParagraphs":["In der Eventerei versteht man es, Feiern nach Maß zu planen. Liebevolle und erstklassige Details, die ein emotionales Feuerwerk auslösen und noch Jahre lang in den Köpfen verankert bleiben - so sieht mein Zugang aus.","Ich weiß ganz genau, wie schöne Momente individuell planbar werden. Ich ken- ne die besten Locations, die zuverlässigsten Partner und habe natürlich auch den einen oder anderen Geheimtipp parat, sollte es einmal etwas ganz Spezielles – fernab vom Mainstream –sein. Zielorientiert und mit viel Liebe zum Detail wird in der Eventerei aus Wünschen Wirklichkeit. Sie erzählen mir von Ihren Vorstellungen und dürfen sich dann ganz entspannt zurücklehnen, den Rest übernehme ich."],"quoteQuote":"Wo Liebe ist,<br> wird das Unmögliche möglich","quoteAuthor":"Buddha","cardLink1":{"title":"Der Feine Unterschied...","subtitle":"Mehr über mich.","ref":"/ubermich.html"},"cardLink2":{"title":"Thingking Green Never Goes out of Style.","subtitle":"Mehr über mein Angebot.","ref":"/portfolio.html#tools"},"cardLink3":{"title":"","subtitle":"","ref":"#no-link-yet"},"cardLink4":{"title":"","subtitle":"","ref":"#no-link-yet"},"showcaseSubtitle":"#EventereiGraz","showcaseImages":[{"ref":"#instagramLink1"},{"ref":"#instagramLink2"},{"ref":"#instagramLink3"},{"ref":"#instagramLink4"},{"ref":"#instagramLink5"}]},"images":{"bannerImageRow":{"name":"start.jpg","width":"1920","height":"440"},"bannerBackgroundEvents":{"name":"startpage-banner-events-background.jpg","width":"960","height":"300"},"bannerBackgroundHochzeiten":{"name":"startpage-banner-hochzeiten-background.jpg","width":"960","height":"300"},"introImage":{"name":"startpage-intro-image.jpg","width":"300","height":"400"},"cardLink1":{"name":"card-link1-image.jpg","width":"960","height":"400"},"cardLink2":{"name":"card-link2-image.jpg","width":"960","height":"400"},"cardLink3":{"name":"card-link3-image.jpg","width":"960","height":"400"},"cardLink4":{"name":"card-link4-image.jpg","width":"960","height":"400"},"showcaseImage1":{"name":"showcase-image1.jpg","width":"150","height":"150"},"showcaseImage2":{"name":"showcase-image2.jpg","width":"150","height":"150"},"showcaseImage3":{"name":"showcase-image3.jpg","width":"150","height":"150"},"showcaseImage4":{"name":"showcase-image4.jpg","width":"150","height":"150"},"showcaseImage5":{"name":"showcase-image5.jpg","width":"150","height":"150"}}}
+{
+    "languageTag": "de",
+    "pageTitle": "Eventerei",
+    "pageLocale": "de_DE",
+    "pageURL": "https://eventerei.at",
+    "pageDescription": "Sample Page Description",
+    "pageImageURL": "https://eventerei.at/img/logo.svg",
+    "pageType": "website",
+    "sharedContent": {
+        "menuLinkStart": "Start",
+        "menuLinkPortfilio": "Portfolio",
+        "menuLinkImpressionen": "Impressionen",
+        "menuLinkPartner": "Partner",
+        "menuLinkUbermich": "My Story",
+        "menuLinkFaq": "FAQ",
+        "menuLinkKontakt": "Kontakt",
+        "impressumLink": {
+            "text": "Impressum",
+            "ref": "/impressum.html"
+        },
+        "agbLink": {
+            "text": "AGB",
+            "ref": "/AGB.pdf"
+        },
+        "datenschutzLink": {
+            "text": "Datenschutz",
+            "ref": "/Datenschutz.pdf"
+        },
+        "contactBlockTitle": "Kontakt",
+        "contactBlockParagraph": "Eventerei - Sabina Wachmann, MA<br> Tel.: <a href='tel:+436646329357'> +43 (0)664 632 93 57</a> <br> E-Mail: <a href='mailto:sabina@eventerei.at'> sabina@eventerei.at</a>",
+        "contactAddressParagraph": "Lambergweg 9 <br> A-8041 Graz",
+        "copyrightBlockParagraph": "Copyright 2020"
+    },
+    "content": {
+        "pageQuoteQuote": "Events &amp; Weddings&nbsp;",
+        "pageQuoteSignature": "Eventerei by Sabina Wachmann",
+        "introTextTitle": "Details meet Emotions",
+        "introTextSubtitle": "Ihr Fest mit Liebe geplant",
+        "introTextParagraphs": [
+            "In der Eventerei versteht man es, Feiern nach Maß zu planen. Liebevolle und erstklassige Details, die ein emotionales Feuerwerk auslösen und noch Jahre lang in den Köpfen verankert bleiben - so sieht mein Zugang aus.",
+            "Ich weiß ganz genau, wie schöne Momente individuell planbar werden. Ich kenne die besten Locations, die zuverlässigsten Partner und habe natürlich auch den einen oder anderen Geheimtipp parat, sollte es einmal etwas ganz Spezielles fernab vom Mainstream sein. Zielorientiert und mit viel Liebe zum Detail wird in der Eventerei aus Wünschen Wirklichkeit. Sie erzählen mir von Ihren Vorstellungen und dürfen sich dann ganz entspannt zurücklehnen, den Rest übernehme ich."
+        ],
+        "quoteQuote": "Wo Liebe ist,<br> wird das Unmögliche möglich",
+        "quoteAuthor": "Buddha",
+        "cardLink1": {
+            "title": "Der Feine Unterschied...",
+            "subtitle": "Mehr über mich.",
+            "ref": "/ubermich.html"
+        },
+        "cardLink2": {
+            "title": "Thingking Green Never Goes out of Style.",
+            "subtitle": "Mehr über mein Angebot.",
+            "ref": "/portfolio.html#tools"
+        },
+        "cardLink3": {
+            "title": "",
+            "subtitle": "",
+            "ref": "#no-link-yet"
+        },
+        "cardLink4": {
+            "title": "",
+            "subtitle": "",
+            "ref": "#no-link-yet"
+        },
+        "showcaseSubtitle": "#EventereiGraz",
+        "showcaseImages": [
+            {
+                "ref": "#instagramLink1"
+            },
+            {
+                "ref": "#instagramLink2"
+            },
+            {
+                "ref": "#instagramLink3"
+            },
+            {
+                "ref": "#instagramLink4"
+            },
+            {
+                "ref": "#instagramLink5"
+            }
+        ]
+    },
+    "images": {
+        "bannerImageRow": {
+            "name": "start.jpg",
+            "width": "1920",
+            "height": "440"
+        },
+        "bannerBackgroundEvents": {
+            "name": "startpage-banner-events-background.jpg",
+            "width": "960",
+            "height": "300"
+        },
+        "bannerBackgroundHochzeiten": {
+            "name": "startpage-banner-hochzeiten-background.jpg",
+            "width": "960",
+            "height": "300"
+        },
+        "introImage": {
+            "name": "startpage-intro-image.jpg",
+            "width": "300",
+            "height": "400"
+        },
+        "cardLink1": {
+            "name": "card-link1-image.jpg",
+            "width": "960",
+            "height": "400"
+        },
+        "cardLink2": {
+            "name": "card-link2-image.jpg",
+            "width": "960",
+            "height": "400"
+        },
+        "cardLink3": {
+            "name": "card-link3-image.jpg",
+            "width": "960",
+            "height": "400"
+        },
+        "cardLink4": {
+            "name": "card-link4-image.jpg",
+            "width": "960",
+            "height": "400"
+        },
+        "showcaseImage1": {
+            "name": "showcase-image1.jpg",
+            "width": "150",
+            "height": "150"
+        },
+        "showcaseImage2": {
+            "name": "showcase-image2.jpg",
+            "width": "150",
+            "height": "150"
+        },
+        "showcaseImage3": {
+            "name": "showcase-image3.jpg",
+            "width": "150",
+            "height": "150"
+        },
+        "showcaseImage4": {
+            "name": "showcase-image4.jpg",
+            "width": "150",
+            "height": "150"
+        },
+        "showcaseImage5": {
+            "name": "showcase-image5.jpg",
+            "width": "150",
+            "height": "150"
+        }
+    },
+    "bannerImageRow": {
+        "name": "start.jpg",
+        "width": "1920",
+        "height": "440"
+    },
+    "introImage": {
+        "name": "startpage-intro-image.jpg",
+        "width": "300",
+        "height": "400"
+    },
+    "bannerBackgroundHochzeiten": {
+        "name": "startpage-banner-hochzeiten-background.jpg",
+        "width": "960",
+        "height": "300"
+    }
+}

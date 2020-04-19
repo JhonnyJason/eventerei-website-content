@@ -1,1 +1,59 @@
-{"languageTag":"de","pageTitle":"Eventerei - Partner","pageLocale":"de_DE","pageURL":"https://eventerei.at/partner","pageDescription":"Sample Page Description","pageImageURL":"https://eventerei.at/img/logo.svg","pageType":"website","sharedContent":{"menuLinkStart":"Start","menuLinkPortfilio":"Portfolio","menuLinkImpressionen":"Impressionen","menuLinkPartner":"Partner","menuLinkUbermich":"My Story","menuLinkFaq":"FAQ","menuLinkKontakt":"Kontakt","impressumLink":{"text":"Impressum","ref":"/impressum.html"},"agbLink":{"text":"AGB","ref":"/AGB.pdf"},"datenschutzLink":{"text":"Datenschutz","ref":"/Datenschutz.pdf"},"contactBlockTitle":"Kontakt","contactBlockParagraph":"Eventerei - Sabina Wachmann, MA<br> Tel.: <a href='tel:+436646329357'> +43 (0)664 632 93 57</a> <br> E-Mail: <a href='mailto:sabina@eventerei.at'> sabina@eventerei.at</a>","contactAddressParagraph":"Lambergweg 9 <br> A-8041 Graz","copyrightBlockParagraph":"Copyright 2020"},"content":{"pageQuoteQuote":"Partner","pageQuoteSignature":"Eventerei by Sabina Wachmann","introTitle":"Partner werden","introParagraph":"Hello stranger. Sie sind Anbieter im Hochzeits - sowie Eventsektor, sind kreativ und haben einen Sinn für Schönes? Im Team können wir unsere vollen Kräfte entfalten und unverwechselbare Erlebnisse erschaffen. Ich freue mich auf Ihre Kontaktaufnahme über das folgende Formular.","partnerFormAction":"https://formspree.io/eventerei-test@weblenny.at","partnerFormCompanyLabel":"Firmenname","partnerFormEmailLabel":"E-Mail Adresse","partnerFormServiceLabel":"Dienstleistung","partnerFormMessageLabel":"Persönliche Nachricht","partnerFormButton":"Senden","encouragementRowTitle":"Ja ich will, Kooperationspartner werden."},"images":{"bannerImageRow":{"name":"partner.jpg","width":"1920","height":"440"}}}
+{
+    "languageTag": "de",
+    "pageTitle": "Eventerei - Partner",
+    "pageLocale": "de_DE",
+    "pageURL": "https://eventerei.at/partner",
+    "pageDescription": "Sample Page Description",
+    "pageImageURL": "https://eventerei.at/img/logo.svg",
+    "pageType": "website",
+    "sharedContent": {
+        "menuLinkStart": "Start",
+        "menuLinkPortfilio": "Portfolio",
+        "menuLinkImpressionen": "Impressionen",
+        "menuLinkPartner": "Partner",
+        "menuLinkUbermich": "My Story",
+        "menuLinkFaq": "FAQ",
+        "menuLinkKontakt": "Kontakt",
+        "impressumLink": {
+            "text": "Impressum",
+            "ref": "/impressum.html"
+        },
+        "agbLink": {
+            "text": "AGB",
+            "ref": "/AGB.pdf"
+        },
+        "datenschutzLink": {
+            "text": "Datenschutz",
+            "ref": "/Datenschutz.pdf"
+        },
+        "contactBlockTitle": "Kontakt",
+        "contactBlockParagraph": "Eventerei - Sabina Wachmann, MA<br> Tel.: <a href='tel:+436646329357'> +43 (0)664 632 93 57</a> <br> E-Mail: <a href='mailto:sabina@eventerei.at'> sabina@eventerei.at</a>",
+        "contactAddressParagraph": "Lambergweg 9 <br> A-8041 Graz",
+        "copyrightBlockParagraph": "Copyright 2020"
+    },
+    "content": {
+        "pageQuoteQuote": "hello stranger",
+        "pageQuoteSignature": "Eventerei by Sabina Wachmann",
+        "introTitle": "Partner werden | Podcast Partner werden",
+        "introParagraph": "Hello stranger. Sie sind Anbieter im Hochzeits - sowie Eventsektor, sind kreativ und haben einen Sinn für Schönes? Im Team können wir unsere vollen Kräfte entfalten und unverwechselbare Erlebnisse erschaffen.&nbsp;<div><br></div><div>In unserem Podcast \"Eventhelden\" geht es um wertvolle Tipps &amp; Tricks, Inspirationen, nachhaltige Ideen und die ganz persönlichen Lebensgeschichten von Dienstleistern in der Eventbranche. Ich freue mich auf Ihre Kontaktaufnahme über das folgende Formular.</div>",
+        "partnerFormAction": "https://formspree.io/eventerei-test@weblenny.at",
+        "partnerFormCompanyLabel": "Firmenname",
+        "partnerFormEmailLabel": "E-Mail Adresse",
+        "partnerFormServiceLabel": "Dienstleistung",
+        "partnerFormMessageLabel": "Persönliche Nachricht",
+        "partnerFormButton": "Senden",
+        "encouragementRowTitle": "Ja ich will... Kooperationspartner werden."
+    },
+    "images": {
+        "bannerImageRow": {
+            "name": "partner.jpg",
+            "width": "1920",
+            "height": "440"
+        }
+    },
+    "bannerImageRow": {
+        "name": "partner.jpg",
+        "width": "1920",
+        "height": "440"
+    }
+}
