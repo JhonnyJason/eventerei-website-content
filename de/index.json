@@ -162,5 +162,10 @@
         "name": "startpage-banner-hochzeiten-background.jpg",
         "width": "960",
         "height": "300"
+    },
+    "cardLink4": {
+        "name": "card-link4-image.jpg",
+        "width": "960",
+        "height": "400"
     }
 }
