@@ -386,5 +386,45 @@
             "width": "650",
             "height": "350"
         }
+    },
+    "impressionSection2GalleryImage2": {
+        "name": "impression2-image2.jpg",
+        "width": "1920",
+        "height": "1080",
+        "thumbnail": {
+            "name": "impression2-image2-thumbnail.jpg",
+            "width": "650",
+            "height": "350"
+        }
+    },
+    "impressionSection2GalleryImage1": {
+        "name": "impression2-image1.jpg",
+        "width": "1920",
+        "height": "1080",
+        "thumbnail": {
+            "name": "impression2-image1-thumbnail.jpg",
+            "width": "650",
+            "height": "350"
+        }
+    },
+    "impressionSection2GalleryImage3": {
+        "name": "impression2-image3.jpg",
+        "width": "1920",
+        "height": "1080",
+        "thumbnail": {
+            "name": "impression2-image3-thumbnail.jpg",
+            "width": "650",
+            "height": "350"
+        }
+    },
+    "impressionSection2GalleryImage4": {
+        "name": "impression2-image4.jpg",
+        "width": "1920",
+        "height": "1080",
+        "thumbnail": {
+            "name": "impression2-image4-thumbnail.jpg",
+            "width": "650",
+            "height": "350"
+        }
     }
 }
