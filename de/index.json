@@ -167,5 +167,20 @@
         "name": "card-link4-image.jpg",
         "width": "960",
         "height": "400"
+    },
+    "bannerBackgroundEvents": {
+        "name": "startpage-banner-events-background.jpg",
+        "width": "960",
+        "height": "300"
+    },
+    "showcaseImage1": {
+        "name": "showcase-image1.jpg",
+        "width": "150",
+        "height": "150"
+    },
+    "showcaseImage2": {
+        "name": "showcase-image2.jpg",
+        "width": "150",
+        "height": "150"
     }
 }
