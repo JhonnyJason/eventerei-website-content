@@ -182,5 +182,20 @@
         "name": "showcase-image2.jpg",
         "width": "150",
         "height": "150"
+    },
+    "cardLink3": {
+        "name": "card-link3-image.jpg",
+        "width": "960",
+        "height": "400"
+    },
+    "cardLink1": {
+        "name": "card-link1-image.jpg",
+        "width": "960",
+        "height": "400"
+    },
+    "cardLink2": {
+        "name": "card-link2-image.jpg",
+        "width": "960",
+        "height": "400"
     }
 }
