@@ -168,6 +168,46 @@
                 "url": "/img/tools-carousel-image6.jpg"
             }
         ],
+        "toolsCarousel1ForGalleryImages": [
+            {
+                "url": "/img/tools-carousel1-for-gallery-image1.jpg"
+            },
+            {
+                "url": "/img/tools-carousel1-for-gallery-image2.jpg"
+            },
+            {
+                "url": "/img/tools-carousel1-for-gallery-image3.jpg"
+            },
+            {
+                "url": "/img/tools-carousel1-for-gallery-image4.jpg"
+            },
+            {
+                "url": "/img/tools-carousel1-for-gallery-image5.jpg"
+            },
+            {
+                "url": "/img/tools-carousel1-for-gallery-image6.jpg"
+            }
+        ],
+        "toolsCarousel2ForGalleryImages": [
+            {
+                "url": "/img/tools-carousel2-for-gallery-image1.jpg"
+            },
+            {
+                "url": "/img/tools-carousel2-for-gallery-image2.jpg"
+            },
+            {
+                "url": "/img/tools-carousel2-for-gallery-image3.jpg"
+            },
+            {
+                "url": "/img/tools-carousel2-for-gallery-image4.jpg"
+            },
+            {
+                "url": "/img/tools-carousel2-for-gallery-image5.jpg"
+            },
+            {
+                "url": "/img/tools-carousel2-for-gallery-image6.jpg"
+            }
+        ],
         "calltoactionTitle": "<a href='/ubermich.html'> Im feinen Detail liegt der Unterschied, <br> ich zeige es dir... </a>"
     },
     "images": {
@@ -266,45 +306,65 @@
             "width": "480",
             "height": "240"
         },
-        "toolsImage1": {
-            "name": "tools-image1.jpg",
-            "width": "1920",
-            "height": "1080",
-            "thumbnail": {
-                "name": "tools-image1-thumbnail.jpg",
-                "width": "640",
-                "height": "200"
-            }
+        "toolsCarousel1ForGalleryImage1": {
+            "name": "tools-carousel1-for-gallery-image1.jpg",
+            "width": "480",
+            "height": "240"
         },
-        "toolsImage2": {
-            "name": "tools-image2.jpg",
-            "width": "1920",
-            "height": "1080",
-            "thumbnail": {
-                "name": "tools-image2-thumbnail.jpg",
-                "width": "640",
-                "height": "200"
-            }
+        "toolsCarousel1ForGalleryImage2": {
+            "name": "tools-carousel1-for-gallery-image2.jpg",
+            "width": "480",
+            "height": "240"
         },
-        "toolsImage3": {
-            "name": "tools-image3.jpg",
-            "width": "1920",
-            "height": "1080",
-            "thumbnail": {
-                "name": "tools-image3-thumbnail.jpg",
-                "width": "640",
-                "height": "200"
-            }
+        "toolsCarousel1ForGalleryImage3": {
+            "name": "tools-carousel1-for-gallery-image3.jpg",
+            "width": "480",
+            "height": "240"
         },
-        "toolsImage4": {
-            "name": "tools-image4.jpg",
-            "width": "1920",
-            "height": "1080",
-            "thumbnail": {
-                "name": "tools-image4-thumbnail.jpg",
-                "width": "640",
-                "height": "200"
-            }
+        "toolsCarousel1ForGalleryImage4": {
+            "name": "tools-carousel1-for-gallery-image4.jpg",
+            "width": "480",
+            "height": "240"
+        },
+        "toolsCarousel1ForGalleryImage5": {
+            "name": "tools-carousel1-for-gallery-image5.jpg",
+            "width": "480",
+            "height": "240"
+        },
+        "toolsCarousel1ForGalleryImage6": {
+            "name": "tools-carousel1-for-gallery-image6.jpg",
+            "width": "480",
+            "height": "240"
+        },
+        "toolsCarousel2ForGalleryImage1": {
+            "name": "tools-carousel2-for-gallery-image1.jpg",
+            "width": "480",
+            "height": "240"
+        },
+        "toolsCarousel2ForGalleryImage2": {
+            "name": "tools-carousel2-for-gallery-image2.jpg",
+            "width": "480",
+            "height": "240"
+        },
+        "toolsCarousel2ForGalleryImage3": {
+            "name": "tools-carousel2-for-gallery-image3.jpg",
+            "width": "480",
+            "height": "240"
+        },
+        "toolsCarousel2ForGalleryImage4": {
+            "name": "tools-carousel2-for-gallery-image4.jpg",
+            "width": "480",
+            "height": "240"
+        },
+        "toolsCarousel2ForGalleryImage5": {
+            "name": "tools-carousel2-for-gallery-image5.jpg",
+            "width": "480",
+            "height": "240"
+        },
+        "toolsCarousel2ForGalleryImage6": {
+            "name": "tools-carousel2-for-gallery-image6.jpg",
+            "width": "480",
+            "height": "240"
         }
     },
     "toolsImage1": {
