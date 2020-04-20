@@ -431,5 +431,15 @@
         "name": "portfolio.jpg",
         "width": "1920",
         "height": "440"
+    },
+    "toolsCarousel1ForGalleryImage3": {
+        "name": "tools-carousel1-for-gallery-image3.jpg",
+        "width": "480",
+        "height": "240"
+    },
+    "toolsCarousel2ForGalleryImage4": {
+        "name": "tools-carousel2-for-gallery-image4.jpg",
+        "width": "480",
+        "height": "240"
     }
 }
