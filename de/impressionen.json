@@ -9,6 +9,9 @@
     "sharedContent": {
         "menuLinkStart": "Start",
         "menuLinkPortfilio": "Portfolio",
+        "menuLinkPortfilioEvents": "Events",
+        "menuLinkPortfilioHochzeiten": "Hochzeiten",
+        "menuLinkPortfilioTools": "Leihutensilien",
         "menuLinkImpressionen": "Impressionen",
         "menuLinkPartner": "Partner",
         "menuLinkUbermich": "My Story",
