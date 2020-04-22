@@ -1,0 +1,77 @@
+{
+    "languageTag": "de",
+    "pageTitle": "Eventerei - Impressum",
+    "pageLocale": "de_DE",
+    "pageURL": "https://eventerei.at/impressum",
+    "pageDescription": "Sample Page Description",
+    "pageImageURL": "https://eventerei.at/img/logo.svg",
+    "pageType": "website",
+    "sharedContent": {
+        "menuLinkStart": "Start",
+        "menuLinkPortfilio": "Portfolio",
+        "menuLinkPortfilioEvents": "Events",
+        "menuLinkPortfilioHochzeiten": "Hochzeiten",
+        "menuLinkPortfilioTools": "Leihutensilien",
+        "menuLinkImpressionen": "Impressionen",
+        "menuLinkPartner": "Partner",
+        "menuLinkUbermich": "My Story",
+        "menuLinkFaq": "FAQ",
+        "menuLinkKontakt": "Kontakt",
+        "impressumLink": {
+            "text": "Impressum",
+            "ref": "/impressum.html"
+        },
+        "agbLink": {
+            "text": "AGB",
+            "ref": "/AGB.pdf"
+        },
+        "datenschutzLink": {
+            "text": "Datenschutz",
+            "ref": "/Datenschutz.pdf"
+        },
+        "contactBlockTitle": "Kontakt",
+        "contactBlockParagraph": "Eventerei - Sabina Wachmann, MA<br> Tel.: <a href='tel:+436646329357'> +43 (0)664 632 93 57</a> <br> E-Mail: <a href='mailto:sabina@eventerei.at'> sabina@eventerei.at</a>",
+        "contactAddressParagraph": "Lambergweg 9 <br> A-8041 Graz",
+        "copyrightBlockParagraph": "Copyright 2020"
+    },
+    "content": {
+        "contactTitle": "Eventerei, Sabina Wachmann",
+        "contactParagraphs": [
+            "Lambergweg 9, 8041 Graz",
+            "sabina@eventerei.at | +43 664 / 632 93 57",
+            "www.eventerei.at"
+        ],
+        "datenschutzBlocks": [
+            {
+                "title": "Datenschutzerklärung",
+                "paragraphs": [
+                    "Der Schutz Ihrer persönlichen Daten ist uns ein besonderes Anliegen. Wir verarbeiten Ihre Daten daher ausschließlich auf Grundlage der gesetzlichen Bestimmungen (DSGVO, TKG 2003). In diesen Datenschutzinformationen informieren wir Sie über die wichtigsten Aspekte der Datenverarbeitung im Rahmen unserer Website.",
+                    "Wenn Sie per Formular auf der Website oder per E-Mail Kontakt mit uns aufnehmen, werden Ihrean gegebenen Daten zwecks Bearbeitung der Anfrage und für den Fall von Anschluss fragen sechs Monate bei uns gespeichert. Diese Daten geben wir nicht ohne Ihre Einwilligung weiter."
+                ]
+            },
+            {
+                "title": "Datenspeicherung",
+                "paragraphs": [
+                    "Der Schutz Ihrer persönlichen Daten ist uns ein besonderes Anliegen. Wir verarbeiten Ihre Daten daher ausschließlich auf Grundlage der gesetzlichen Bestimmungen (DSGVO, TKG 2003). In diesen Datenschutzinformationen informieren wir Sie über die wichtigsten Aspekte der Datenverarbeitung im Rahmen unserer Website.",
+                    "Wenn Sie per Formular auf der Website oder per E-Mail Kontakt mit uns aufnehmen, werden Ihrean gegebenen Daten zwecks Bearbeitung der Anfrage und für den Fall von Anschluss fragen sechs Monate bei uns gespeichert. Diese Daten geben wir nicht ohne Ihre Einwilligung weiter."
+                ]
+            }
+        ],
+        "pageQuoteQuote": "Impressum & Datenschutz",
+        "pageQuoteSignature": "Eventerei by Sabina Wachmann",
+        "quoteQuote": "Alles, worauf die Liebe wartet, ist die Gelegenheit.",
+        "quoteAuthor": "Miguel de Cervantes"
+    },
+    "images": {
+        "bannerImageRow": {
+            "name": "impressum.jpg",
+            "width": "1920",
+            "height": "440"
+        }
+    },
+    "bannerImageRow": {
+        "name": "impressum.jpg",
+        "width": "1920",
+        "height": "440"
+    }
+}
