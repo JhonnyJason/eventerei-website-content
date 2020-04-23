@@ -442,5 +442,35 @@
         "name": "tools-carousel2-for-gallery-image4.jpg",
         "width": "480",
         "height": "240"
+    },
+    "eventsCarouselImage6": {
+        "name": "events-carousel-image6.jpg",
+        "width": "480",
+        "height": "240"
+    },
+    "eventsCarouselImage2": {
+        "name": "events-carousel-image2.jpg",
+        "width": "480",
+        "height": "240"
+    },
+    "eventsCarouselImage3": {
+        "name": "events-carousel-image3.jpg",
+        "width": "480",
+        "height": "240"
+    },
+    "eventsCarouselImage4": {
+        "name": "events-carousel-image4.jpg",
+        "width": "480",
+        "height": "240"
+    },
+    "eventsCarouselImage5": {
+        "name": "events-carousel-image5.jpg",
+        "width": "480",
+        "height": "240"
+    },
+    "eventsCarouselImage1": {
+        "name": "events-carousel-image1.jpg",
+        "width": "480",
+        "height": "240"
     }
 }
