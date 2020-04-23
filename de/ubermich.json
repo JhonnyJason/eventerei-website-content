@@ -35,25 +35,25 @@
         "copyrightBlockParagraph": "Copyright 2020"
     },
     "content": {
-        "pageQuoteQuote": "Let me Tell&nbsp;<div>you My Story...</div>",
+        "pageQuoteQuote": "Let me Tell<br> you My Story...",
         "pageQuoteSignature": "Eventerei by Sabina Wachmann",
-        "storyTextTitle": "NATURFREUNDIN MIT SINN FÜR SCHÖNES<div><br></div>",
+        "storyTextTitle": "NATURFREUNDIN MIT SINN FÜR SCHÖNES",
         "storyTextSubtitle": "My Story",
         "storyTextParagraphs": [
             "Nach meinem Studium fasste ich Fuß im Vertrieb der Hotellerie und am Red Bull Ring, wo ich viele erlebnisreiche und glanzvolle Veranstaltungen und Messen für unterschiedlichste Unternehmen organisieren und verkaufen durfte. Durch meine mehr als 5-jährige Erfahrung in der Eventbranche, kenne ich ganz genau die Ingredienzien erfolgreicher Veranstaltungen und schaffe gemeinsam mit Ihnen als diplomierte Hochzeitsplanerin und Projektmanagerin, einzigartige Erlebnisse."
         ],
-        "aboutmeSubtitle": "<h1 text-content-key=\"content.introTitle\" class=\"editing\" style=\"margin-top: 30px; margin-bottom: 60px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-family: &quot;SourceSans Semibold&quot;; text-align: center;\"><h1 text-content-key=\"content.storyTextTitle\" class=\"editing\" style=\"margin-bottom: 30px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-size: 15pt; line-height: 30px; font-family: &quot;SourceSans Semibold&quot;; letter-spacing: 1.5pt; color: rgb(75, 112, 98); text-align: start;\">About me</h1></h1>",
+        "aboutmeSubtitle": "About me",
         "aboutmeParagraphs": [
-            "<div><b><br></b></div><b>Naturfreundin</b>: Mit meinen Lieblingsmenschen liebe ich es in den Bergen Österreichs unterwegs zu sein, in der Natur Kraft zu schöpfen. Die unbeschreiblich schönen Bergseen und natürlich auch die ein oder andere Hütteneinkehr mit österreichischer Hausmannskost haben es mir sehr angetan&nbsp; - Herz was willst du mehr.  ",
-            "<div><p class=\"MsoNormal\" style=\"text-align:justify\"><b><span style=\"font-family: Gillsans, serif; letter-spacing: 1pt; border-width: 1pt; border-style: none; border-color: windowtext; padding: 0cm;\">(obere Text kann weg) Naturfreundin</span></b><span style=\"font-family: Gillsans, serif; letter-spacing: 1pt;\">: Mit\nmeinen Herzensmenschen bin ich liebend gerne in den schönen Bergen Österreichs\nunterwegs und genieße die Natur, die unbeschreiblich schönen Bergseen und\nnatürlich auch die ein oder andere Hütteneinkehr mit österreichischer\nHausmannskost – Herz was willst du mehr.&nbsp;</span><span style=\"font-family: Gillsans, serif; letter-spacing: 1pt;\">&nbsp;</span></p></div><b>Sinn für Schönes</b>: ich liebe Details und Akzente, die jede Veranstaltung perfekt unterstützen und diese zu einer unvergesslichen werden lassen – denn genau hier liegt der feine Unterschied. Mein Qualitätsbewusstsein zeigt sich in der Auswahl von Stoffen, Dekoration und der Wahl von regionalen Dienstleistern. Vor allem Outdoor Events und Veranstaltungen in außergewöhnlichen Locations haben es mir sehr angetan.    "
+            "<b>Naturfreundin</b>: Mit meinen Herzensmenschen bin ich liebend gerne in den schönen Bergen Österreichs unterwegs und genieße die Natur, die<br> unbeschreiblich schönen Bergseen und natürlich auch die ein oder andere Hütteneinkehr mit österreichischer Hausmannskost – Herz was willst du mehr.",
+            "<b>Sinn für Schönes</b>: ich liebe Details und Akzente, die jede Veranstaltung perfekt unterstützen und diese zu einer unvergesslichen werden lassen – denn genau hier liegt der feine Unterschied. Mein Qualitätsbewusstsein zeigt sich in der Auswahl von Stoffen, Dekoration und der Wahl von regionalen Dienstleistern. Vor allem Outdoor Events und Veranstaltungen in außergewöhnlichen Locations haben es mir sehr angetan."
         ],
-        "eventereiHeading": "<h1 text-content-key=\"content.storyTextTitle\" class=\"editing\" style=\"margin-bottom: 30px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-size: 15pt; line-height: 30px; font-family: &quot;SourceSans Semibold&quot;; letter-spacing: 1.5pt; color: rgb(75, 112, 98); text-align: start;\">Eventerei&nbsp;</h1>",
+        "eventereiHeading": "Eventerei",
         "eventereiSubtitle": "Was steckt hinter dem Namen „Eventerei“?",
         "eventereiParagraphs": [
             "Bei Wörtern, die in der deutschen Sprache auf „-erei“enden, handelt es sich meist um Begriffe, die ein Handwerk wiedergeben, das der damit angesprochenen Person oder Leistung vollkommen entspricht. So auch bei der Eventerei, wo mit viel Herzblut und Engagement individuelle Momente des Glücks erschaffen werden. Mein Slogan \"details meet emotions\" spiegelt die Detailliebe wieder, die ich in allen Schritten meiner Arbeit einbeziehe.&nbsp;"
         ],
         "quoteQuote": "EINE MARKE, EIN PRODUKT SOWIE EIN EVENT, IST WIE EINE GROSSE LIEBE: SIE WILL ERGRÜNDET, BEGEHRT UND GEPFLEGT WERDEN.",
-        "outroTextSubtitle": "NACHHALTIGKEIT - SCHÖNES ERHALTEN<div><br></div><div><br></div>",
+        "outroTextSubtitle": "NACHHALTIGKEIT - SCHÖNES ERHALTEN",
         "outroTextParagraph": "Nachhaltigkeit - ein Lebensstil, der mir besonders am Herz liegt. Jeder noch so kleine Beitrag zählt, natürlich auch an Ihrem besonderen Tag oder Veranstaltung, an dem ausgelassen gefeiert werden soll. Angefangen von nachhaltigem Konfetti, Floristik, Drucksorten, bis hin zu Dekoration mieten, anstatt diese zu kaufen. Ich freue mich, wenn ich Sie mit kleinen Tipps davon begeistern darf. Leihutensilien der Eventerei finden Sie hier.",
         "image1": {
             "url": "/img/ubermich-gallery-image1.jpg"
