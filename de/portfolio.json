@@ -472,5 +472,45 @@
         "name": "events-carousel-image1.jpg",
         "width": "480",
         "height": "240"
+    },
+    "hochzeitenCarouselImage1": {
+        "name": "hochzeiten-carousel-image1.jpg",
+        "width": "480",
+        "height": "240"
+    },
+    "hochzeitenCarouselImage2": {
+        "name": "hochzeiten-carousel-image2.jpg",
+        "width": "480",
+        "height": "240"
+    },
+    "hochzeitenCarouselImage3": {
+        "name": "hochzeiten-carousel-image3.jpg",
+        "width": "480",
+        "height": "240"
+    },
+    "hochzeitenCarouselImage4": {
+        "name": "hochzeiten-carousel-image4.jpg",
+        "width": "480",
+        "height": "240"
+    },
+    "hochzeitenCarouselImage5": {
+        "name": "hochzeiten-carousel-image5.jpg",
+        "width": "480",
+        "height": "240"
+    },
+    "hochzeitenCarouselImage6": {
+        "name": "hochzeiten-carousel-image6.jpg",
+        "width": "480",
+        "height": "240"
+    },
+    "toolsCarouselImage1": {
+        "name": "tools-carousel-image1.jpg",
+        "width": "480",
+        "height": "240"
+    },
+    "toolsCarouselImage2": {
+        "name": "tools-carousel-image2.jpg",
+        "width": "480",
+        "height": "240"
     }
 }
