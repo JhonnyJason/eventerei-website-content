@@ -68,19 +68,13 @@
         "showcaseSubtitle": "#EventereiGraz",
         "showcaseImages": [
             {
-                "ref": "#instagramLink1"
+                "ref": "https://www.instagram.com/p/B7bfwJXBCt7/"
             },
             {
-                "ref": "#instagramLink2"
+                "ref": "https://www.instagram.com/p/B7RAYhih-vd/"
             },
             {
-                "ref": "#instagramLink3"
-            },
-            {
-                "ref": "#instagramLink4"
-            },
-            {
-                "ref": "#instagramLink5"
+                "ref": "https://www.instagram.com/p/B6_hoAVBdrB/"
             }
         ]
     },
