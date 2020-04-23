@@ -98,12 +98,10 @@
         "individualPLanningTitle": "Individuelle Gesamtplanung",
         "individualPlanningParagraph": "Ihr steht noch am Beginn eurer Planung und wisst nicht wo und wie ihr beginnen sollt? Eure Wünsche und Ideen nehme ich in die Planung mit auf und verwandle sie in eine unvergessliche Veranstaltung für euch und eure Liebsten. Ich begleite euch bei jedem Schritt und bin für euch da.",
         "individualPlanningSubtitle": "Leistungen:",
-        "individualPlanningServices": [
-            "service 1",
-            "service 2"
-        ],
+        "individualPlanningServices": "- Erstes Kennenlernen inkl. Abstecken der Wunschvorstellungen <br>- Beratungsgespräche im gesamten Organisationsprozess (max. 5) <br>- Erstellung eines Wedding Designs <br>– maßgeschneidertes Designkonzept von Drucksorten, Dekoration bis zu den Gastgeschenken uvm. <br>- Recherche & Locationvorschläge <br>- Dienstleister: Vorschläge & Koordination dieser <br>- Budgeterstellung und -kontrolle <br>- Erstellung Zeit- und Ablaufpläne <br>- Konzeptgespräch <br>- Koordination Auf- und Abbau und Betreuung vor Ort <br>- Ruhepol und Anlaufstelle für Fragen aller Art <br>- Nachbetreuung",
         "partialPlanningTitle": "Teilplanung",
-        "partialPlanningParagraph": "Ihr seit bereits mitten in euerer Planung und möchtet gerne bestimmte Teilbereiche in die Hände eines Profis legen?<div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div>",
+        "partialPlanningParagraph1": "Ihr seit bereits mitten in euerer Planung und möchtet gerne bestimmte Teilbereiche in die Hände eines Profis legen?",
+        "partialPlanningParagraph2": "<b>- WEDDING DESIGN ONLY</b>: Professionelles und einzigartiges Hochzeitsdesign mit fein abgestimmten Details <br><b>- WEDDING PRO CHECK</b>: ihr habt bereits ein stimmiges Konzept, benötigt jedoch noch den ein oder anderen Tipp? <br><b>- LOCATIONSUCHE</b>: Hippe Outdoor Location, märchenhaftes Schloss oder außergewöhnliche Location gesucht? <br><b>- ELOPEMENT</b>: ihr möchtet euren besonderen Tag in Zweisamkeit, an eurem Lieblingsort genießen?",
         "borrowNotBuyTitle": "Schönes erhalten Mieten statt Kaufen",
         "hochzeitenCarouselImages": [
             {
