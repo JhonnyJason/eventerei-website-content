@@ -126,7 +126,7 @@
         "toolsPortfolioTitle": "Portfolio Leihutensilien",
         "toolsQuoteQuote": "Wahrer Reichtum liegt nicht in den Dingen, die ich besitze, sondern in den Momenten die mein Herz berühren.",
         "toolsQuoteAuthor": "Roswitha Bloch",
-        "toolsGalleryParagraph": "Nachhaltigkeit, ein Lebensstil der uns besonders am Herzen liegt - jeder noch so kleine Beitrag zählt, so auch an Ihrem Festtag.&nbsp;<br>Folgend finden Sie eine kleine Auswahl der Leihutensilien der Eventerei.&nbsp;<br>Bei weiteren Fragen zu Preisen und Details können Sie uns jederzeit gerne kontaktieren.&nbsp;<br><br><br>Zustellung, Aufbau und Abholung der Leihutensilien kann hinzugebucht werden. <br>Transportkosten werden nach Lieferumfang &amp; Aufwand berechnet.&nbsp;",
+        "toolsGalleryParagraph": "Nachhaltigkeit, ein Lebensstil der uns besonders am Herzen liegt - jeder noch so kleine Beitrag zählt, so auch an Ihrem Festtag.&nbsp;<br>Folgend finden Sie eine kleine Auswahl von Leihutensilien der Eventerei.&nbsp;<br>Bei weiteren Fragen zu Preisen und Details können Sie uns jederzeit gerne kontaktieren.&nbsp;<br><br><br>Zustellung, Aufbau und Abholung der Leihutensilien kann hinzugebucht werden. <br>Transportkosten werden nach Lieferumfang &amp; Aufwand berechnet.&nbsp;",
         "toolsImage1": {
             "ref": "/img/tools-image1.jpg"
         },
@@ -510,6 +510,56 @@
     },
     "toolsCarouselImage2": {
         "name": "tools-carousel-image2.jpg",
+        "width": "480",
+        "height": "240"
+    },
+    "toolsCarousel1ForGalleryImage1": {
+        "name": "tools-carousel1-for-gallery-image1.jpg",
+        "width": "480",
+        "height": "240"
+    },
+    "toolsCarousel1ForGalleryImage2": {
+        "name": "tools-carousel1-for-gallery-image2.jpg",
+        "width": "480",
+        "height": "240"
+    },
+    "toolsCarousel1ForGalleryImage4": {
+        "name": "tools-carousel1-for-gallery-image4.jpg",
+        "width": "480",
+        "height": "240"
+    },
+    "toolsCarousel1ForGalleryImage5": {
+        "name": "tools-carousel1-for-gallery-image5.jpg",
+        "width": "480",
+        "height": "240"
+    },
+    "toolsCarousel2ForGalleryImage1": {
+        "name": "tools-carousel2-for-gallery-image1.jpg",
+        "width": "480",
+        "height": "240"
+    },
+    "toolsCarousel2ForGalleryImage2": {
+        "name": "tools-carousel2-for-gallery-image2.jpg",
+        "width": "480",
+        "height": "240"
+    },
+    "toolsCarousel2ForGalleryImage3": {
+        "name": "tools-carousel2-for-gallery-image3.jpg",
+        "width": "480",
+        "height": "240"
+    },
+    "toolsCarousel2ForGalleryImage5": {
+        "name": "tools-carousel2-for-gallery-image5.jpg",
+        "width": "480",
+        "height": "240"
+    },
+    "toolsCarousel2ForGalleryImage6": {
+        "name": "tools-carousel2-for-gallery-image6.jpg",
+        "width": "480",
+        "height": "240"
+    },
+    "toolsCarousel1ForGalleryImage6": {
+        "name": "tools-carousel1-for-gallery-image6.jpg",
         "width": "480",
         "height": "240"
     }
