@@ -429,5 +429,10 @@
             "width": "650",
             "height": "350"
         }
+    },
+    "bannerImageRow": {
+        "name": "impressionen.jpg",
+        "width": "1920",
+        "height": "440"
     }
 }
