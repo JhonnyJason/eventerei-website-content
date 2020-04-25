@@ -114,21 +114,21 @@
                 }
             },
             {
-                "impressionDescriptionTitle": "Roses and Leafs 3",
-                "impressionDescriptionSubtitle": "Portfolio Portfolio Portfolio",
+                "impressionDescriptionTitle": "ABSCHLUSSPRÄSENTATION",
+                "impressionDescriptionSubtitle": "WEDDING MEET UP GRAZ",
                 "impressionDescriptionParagraphs": [
-                    "Etusci dis quiatatquam, quuntur? Sol es nisse qu undae puda erumsimeaer umutmagnisas per um quissu mea quesitiamauteiurrehendidolupta pora eum quibus con niat ur ? Quidebit max  impo ressi mus es ei cian on sequi apiendan tut pedis exeos reescullupta plab int is nosandem"
+                    "Film zum Wedding Meet Up finden Sie hier.&nbsp;"
                 ],
                 "impressionCreditsParagraphs": [
-                    "<b>ORGANISATION</b> Etusci Etusci",
-                    "<b>FOTOGRAFIE</b> Etusci Etusci Etusci",
-                    "<b>STYLIST</b> Etusci Etusci",
-                    "<b>WEDDING DESIGN</b> Etusci Etusci Etusci & Etusci Etusci Etusci Etusci Etusci",
-                    "<b>PAPETERIE</b> Etusci Etusci",
-                    "<b>FLORISTIK</b> Etusci Etusci",
-                    "<b>DEKORATION</b> Etusci Etusci",
-                    "<b>LOCATION</b> Etusci",
-                    "<b>MODELS</b> Etusci Etusci Etusci"
+                    "<b>ORGANISATION</b> Eventerei",
+                    "<b>FOTOGRAFIE</b> Miriam &amp; Manuel Fotografie",
+                    "<br>",
+                    "<b>WEDDING DESIGN</b> Eventerei",
+                    "<b>SWEET TABLE</b>&nbsp;Das Tortenatelier",
+                    "<b>FLORISTIK</b> Florathek",
+                    "<b>DEKORATION</b> Eventerei",
+                    "<b>LOCATION</b> Florathek",
+                    ""
                 ],
                 "impressionImage1": {
                     "url": "/img/impression3-image1.jpg",
@@ -434,5 +434,45 @@
         "name": "impressionen.jpg",
         "width": "1920",
         "height": "440"
+    },
+    "impressionSection3GalleryImage2": {
+        "name": "impression3-image2.jpg",
+        "width": "1920",
+        "height": "1080",
+        "thumbnail": {
+            "name": "impression3-image2-thumbnail.jpg",
+            "width": "650",
+            "height": "350"
+        }
+    },
+    "impressionSection3GalleryImage1": {
+        "name": "impression3-image1.jpg",
+        "width": "1920",
+        "height": "1080",
+        "thumbnail": {
+            "name": "impression3-image1-thumbnail.jpg",
+            "width": "650",
+            "height": "350"
+        }
+    },
+    "impressionSection3GalleryImage3": {
+        "name": "impression3-image3.jpg",
+        "width": "1920",
+        "height": "1080",
+        "thumbnail": {
+            "name": "impression3-image3-thumbnail.jpg",
+            "width": "650",
+            "height": "350"
+        }
+    },
+    "impressionSection3GalleryImage4": {
+        "name": "impression3-image4.jpg",
+        "width": "1920",
+        "height": "1080",
+        "thumbnail": {
+            "name": "impression3-image4-thumbnail.jpg",
+            "width": "650",
+            "height": "350"
+        }
     }
 }
