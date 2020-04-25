@@ -35,7 +35,7 @@
         "copyrightBlockParagraph": "Copyright 2020"
     },
     "content": {
-        "pageQuoteQuote": "Was wir leisten&nbsp;",
+        "pageQuoteQuote": "Was wir lieben&nbsp;",
         "pageQuoteSignature": "Eventerei by Sabina Wachmann",
         "eventsPortfolioTitle": "Portfolio Events",
         "eventsPortfolioSubtitle": "Mit einem feinen Sinn für die Wünsche der Kunden kreiere ich für Sie&nbsp;<br>Erlebnisse mit liebevollen Details, die in Erinnerung bleiben.",
@@ -44,27 +44,27 @@
         ],
         "eventsPortfolioCards": [
             {
-                "title": "Mitarbeiter Events | Incentives",
-                "paragraph": "Ihre Gäste werden das Besondere an diesem Anlass genießen, garantiert! Durch unser Partner-Netzwerk sind uns keine Grenzen gesetzt und können diese beinahe überall realisieren."
+                "title": "MITARBEITER EVENTS | INCENTIVES",
+                "paragraph": "Zielgruppenorientiert entwickeln wir individuelle und innovative Konzept für Ihre Mitarbeiter &amp; Gäste. Abwechslungsreich, spannend &amp; vor allem flexibel gestalten wir unvergessliche Momente.&nbsp;"
             },
             {
-                "title": "Kongress- Messe- und Seminarmanagement",
+                "title": "KONGRESSE | MESSEN | SEMINARE",
                 "paragraph": "Professionalität, Qualität &amp; individuelle Konzepte sind unsere Zugänge. Sie konzentrieren sich auf den Inhalt - wir übernehmen den Rest."
             },
             {
-                "title": "Produktpräsentation | Awardverleihungen",
-                "paragraph": "Emotionsgeladene Inszenierung mit \"wow-Efffekt\", stimmiger Rahmen mit Wohlfühlatmosphäre für Ihre Gäste.&nbsp;"
+                "title": "PRODUKTPRÄSENTATION | AWARDVERLEIHUNG",
+                "paragraph": "Emotionsgeladene Inszenierung mit \"wow-Effekt\", stimmiger Rahmen mit Wohlfühlatmosphäre für Ihre Gäste.&nbsp;"
             },
             {
-                "title": "Kreativschmiede",
-                "paragraph": "Ihnen fehlt noch die zündende Idee für Ihr Event, sind auf der Suche nach dem gewissen Etwas, wie z.B. Künstler, nachhaltige Geschenke oder dem passenden Rahmen? Wir sprühen nur so von Ideen und freuen uns mit Ihnen kreativ zu werden."
+                "title": "KREATIVATELIER",
+                "paragraph": "Ihnen fehlt noch die zündende Idee für Ihr Event, sind auf der Suche nach dem gewissen Etwas, ( wie z.B. Künstler, nachhaltige Geschenke oder dem passenden Rahmen) ? Wir sprühen nur so von Ideen und freuen uns mit Ihnen kreativ zu werden."
             },
             {
-                "title": "Pop Up Events",
+                "title": "POP UP EVENTS",
                 "paragraph": "Unerwartete Events an einzigartigen Orten - genau unser Geschmack. Stechen Sie aus der Masse mit Pop Up Events, die Persönlichkeit zeigen und überraschen Sie Ihre Gäste &amp; Kunden."
             },
             {
-                "title": "Schönes erhalten - Leihutensilien",
+                "title": "SCHÖNES ERHALTEN | LEIHUTENSILIEN",
                 "paragraph": "Kreative Hingucker mieten, statt diese zu kaufen - der Umwelt zu Liebe. Hier finden Sie Fotos und Details zu unseren&nbsp;<br>Leihutensilien.&nbsp;"
             }
         ],
@@ -93,16 +93,16 @@
         "hochzeitenPortfolioParagraphs": [
             "Mit einem feinen Sinn für die Wünsche der Kunden kreiere ich für Sie Erlebnisse mit liebevollen Details, die in Erinnerung bleiben. Ob freie Trauung in den Bergen, gemütliches Sommerfest im eigenen Garten, einzigartige Waldhochzeit, elegante Schlosshochzeit oder trachtige Outdoor Hochzeit in den Weinbergen - gemeinsam finden wir das ideale Setting für Sie.&nbsp;&nbsp;"
         ],
-        "greatDayCardTitle": "Der große Tag",
+        "greatDayCardTitle": "TAGESKOORDINATION",
         "greatDayCardParagraph": "Sie haben die Planung bereits selbst fest im Griff und suchen für Ihren großen Tag eine Unterstützung, die alle Fäden fest in der Hand behält? Vor Ihrem großen Tag besprechen wir gemeinsam Ihren geplanten Ablauf im Detail, ich nehme Kontakt zu all Ihren gebuchten Dienstleistern auf und erstelle einen Individuellen Zeitplan. Gleichzeitig agiere ich als Ansprechperson und koordiniere Ihren Hochzeitstag vor Ort.&nbsp;",
-        "individualPLanningTitle": "Maßgeschneiderte Gesamtplanung",
+        "individualPLanningTitle": "MASSGESCHNEIDERTE GESAMTPLANUNG",
         "individualPlanningParagraph": "Sie stehen noch am Beginn Ihrer Planung und wissen nicht wo und wie Sie beginnen sollen? Ihre Wünsche und Ideen nehme ich in die Planung mit auf und verwandle sie in eine unvergessliche Veranstaltung für Sie und Ihre Liebsten. Ich begleite Sie bei jedem Schritt und bin für Sie Ruhepol und Ansprechpartner.",
         "individualPlanningSubtitle": "Leistungen:",
         "individualPlanningServices": "- Erstes Kennenlernen inkl. Abstecken der Wunschvorstellungen <br>- Beratungsgespräche im gesamten Organisationsprozess (max. 5) <br>- Erstellung eines individuellen Wedding Designs <br>– maßgeschneidertes Designkonzept von Drucksorten, Dekoration bis zu den Gastgeschenken uvm. <br>- Recherche &amp; Locationvorschläge&nbsp;<br>- Konzeptgespräch<br>- Dienstleister: Vorschläge &amp; Koordination&nbsp;<br>- Budgeterstellung &amp; -kontrolle <br>- Erstellung Zeit- und Ablaufpläne <br>- Koordination Auf- und Abbau &amp; Betreuung vor Ort <br>- Ruhepol &amp; Anlaufstelle für Fragen aller Art <br>- Nachbetreuung",
-        "partialPlanningTitle": "Teilplanung",
+        "partialPlanningTitle": "TEILPLANUNG&nbsp;",
         "partialPlanningParagraph1": "Sie sind bereits mitten in Ihrer Planung und möchten gerne bestimmte Teilbereiche in die Hände eines Profis legen? Gerne können Sie folgende Teilbereiche in Anspruch nehmen:",
-        "partialPlanningParagraph2": "<b>- WEDDING DESIGN ONLY</b>: Professionelles und einzigartiges&nbsp;<br>Hochzeitsdesign mit fein abgestimmten Details <br><b>- WEDDING PRO CHECK</b>: Sie haben bereits ein stimmiges Konzept, <br>benötigen jedoch noch den ein oder anderen Tipp? <br><b>- LOCATIONSUCHE</b>: Hippe Outdoor Location, märchenhaftes Schloss <br>oder außergewöhnliche Location gesucht? <br><b>- ELOPEMENT</b>: Sie möchten Ihren besonderen Tag in Zweisamkeit, <br>an Ihrem Lieblingsort genießen?",
-        "borrowNotBuyTitle": "Schönes erhalten Mieten statt Kaufen",
+        "partialPlanningParagraph2": "<b>- WEDDING DESIGN ONLY</b>: Professionelles und einzigartiges&nbsp;<br>Hochzeitsdesign mit abgestimmten feinen Details <br><b>- WEDDING PRO CHECK</b>: Sie haben bereits ein stimmiges Konzept, <br>benötigen jedoch noch den ein oder anderen Tipp? <br><b>- LOCATIONSUCHE</b>: Hippe Outdoor Location, märchenhaftes Schloss <br>oder außergewöhnliche Location gesucht? <br><b>- ELOPEMENT</b>: Sie möchten Ihren besonderen Tag in Zweisamkeit, <br>an Ihrem Lieblingsort genießen?",
+        "borrowNotBuyTitle": "Schönes erhalten MIETEN statt Kaufen",
         "hochzeitenCarouselImages": [
             {
                 "url": "/img/hochzeiten-carousel-image1.jpg"
