@@ -91,7 +91,7 @@
         "hochzeitenPortfolioTitle": "Portfolio Hochzeiten",
         "hochzeitenPortfolioSubtitle": "Maßgeschneiderte Erlebnisse mit Liebe geplant",
         "hochzeitenPortfolioParagraphs": [
-            "Mit einem feinen Sinn für die Wünsche der Kunden kreiere ich für Sie Erlebnisse mit liebevollen Details, die in Erinnerung bleiben. Ob freie Trauung in den Bergen, gemütliches Sommerfest im eigenen Garten, einzigartige Waldhochzeit, elegante Schlosshochzeit oder trachtige Outdoor Hochzeit in den Weinbergen - gemeinsam finden wir das ideale Setting für Sie.&nbsp;&nbsp;"
+            "Mit einem feinen Sinn für die Wünsche der Kunden kreiere ich für Sie Erlebnisse mit liebevollen Details, die in Erinnerung bleiben. Ob freie Trauung in den Bergen, gemütliches Sommerfest im eigenen Garten, einzigartige Waldhochzeit, elegante Schlosshochzeit oder trachtige Outdoor Hochzeit in den Weinbergen - gemeinsam finden wir das ideale Setting. Jedes Paket kann individuell an Ihre Bedürfnisse angepasst werden - daher finden Sie hier auch keine Preise. Ich freue mich auf ein persönliches Kennenlerngespräch."
         ],
         "greatDayCardTitle": "TAGESKOORDINATION",
         "greatDayCardParagraph": "Sie haben die Planung bereits selbst fest im Griff und suchen für Ihren großen Tag eine Unterstützung, die alle Fäden fest in der Hand behält? Vor Ihrem großen Tag besprechen wir gemeinsam Ihren geplanten Ablauf im Detail, ich nehme Kontakt zu all Ihren gebuchten Dienstleistern auf und erstelle einen Individuellen Zeitplan. Gleichzeitig agiere ich als Ansprechperson und koordiniere Ihren Hochzeitstag vor Ort.&nbsp;",
@@ -209,7 +209,7 @@
                 "url": "/img/tools-carousel2-for-gallery-image6.jpg"
             }
         ],
-        "calltoactionTitle": "<a href='/ubermich.html'> Im feinen Detail liegt der Unterschied, <br> ich zeige es dir... </a>"
+        "calltoactionTitle": "<a href=\"/ubermich.html\"> Im feinen Detail liegt&nbsp;</a><br><a href=\"/ubermich.html\">der Unterschied.<br> ich zeige es ihnen... </a>"
     },
     "images": {
         "bannerImageRow": {
