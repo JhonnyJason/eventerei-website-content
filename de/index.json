@@ -46,23 +46,23 @@
         "quoteQuote": "EINe Marke, ein Produkt sowie ein Event,<br>ist wie eine grosse Liebe<br> Sie will Ergründet,<br> begehrt und gepflegt werden.",
         "quoteAuthor": "",
         "cardLink1": {
-            "title": "Der Feine Unterschied...",
-            "subtitle": "Mehr über mich.",
+            "title": "Der Feine Unterschied.",
+            "subtitle": "Mehr über mich...",
             "ref": "/ubermich.html"
         },
         "cardLink2": {
             "title": "Thingking Green Never Goes out of Style.",
-            "subtitle": "Mehr über mein Angebot.",
+            "subtitle": "Mehr über mein Angebot...",
             "ref": "/portfolio.html#tools"
         },
         "cardLink3": {
-            "title": "",
-            "subtitle": "",
+            "title": "A LOVE for Details.",
+            "subtitle": "Mehr zu den Impressionen...",
             "ref": "#no-link-yet"
         },
         "cardLink4": {
-            "title": "",
-            "subtitle": "",
+            "title": "Roter Faden von der Idee bis zum Applaus.",
+            "subtitle": "Mehr über Eventangebot...",
             "ref": "#no-link-yet"
         },
         "showcaseSubtitle": "#EventereiGraz",
