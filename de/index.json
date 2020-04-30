@@ -84,6 +84,11 @@
             "width": "1920",
             "height": "440"
         },
+        "mobileBannerImageRow": {
+            "name": "start-mobile.jpg",
+            "width": "600",
+            "height": "440"
+        },
         "bannerBackgroundEvents": {
             "name": "startpage-banner-events-background.jpg",
             "width": "960",
