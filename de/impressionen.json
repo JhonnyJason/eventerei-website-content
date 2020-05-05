@@ -88,13 +88,10 @@
                 "impressionCreditsParagraphs": [
                     "<b>ORGANISATION</b>&nbsp;<br>Eventerei",
                     "<b>FOTOGRAFIE</b>&nbsp;<br>Lukas Elsneg",
-                    "",
                     "<b>EVENT DESIGN</b><br>Eventerei",
-                    "",
                     "<b>FLORISTIK</b><br>tbd",
                     "<b>DEKORATION</b><br>Eventerei<b>&nbsp;</b>",
-                    "<b>LOCATION</b><br>Meerscheinschlössl Graz",
-                    ""
+                    "<b>LOCATION</b><br>Meerscheinschlössl Graz"
                 ],
                 "impressionImage1": {
                     "url": "/img/impression2-image1.jpg",
@@ -127,8 +124,7 @@
                     "<b>SWEET TABLE</b>&nbsp;Das Tortenatelier",
                     "<b>FLORISTIK</b> Florathek",
                     "<b>DEKORATION</b> Eventerei",
-                    "<b>LOCATION</b> Florathek",
-                    ""
+                    "<b>LOCATION</b> Florathek"
                 ],
                 "impressionImage1": {
                     "url": "/img/impression3-image1.jpg",
@@ -154,15 +150,8 @@
                     "Das Wetter meinte es auch in letzter Minute noch gut mit uns und wir konnten die Hochzeit unter freiem Himmel stattfinden lassen - welch Glück. Gerne erinnere ich mich an diese wunderschöne Hochzeit mit liebevollen rosa Details im Weinschloss Domäne Wachau zurück."
                 ],
                 "impressionCreditsParagraphs": [
-                    "<br><br>",
-                    "<br><br>",
-                    "",
-                    "",
-                    "",
-                    "",
                     "<br>ORGANISATION<br>Mit dir zu Zweit<br>TAGESKOORDINATION<br>Mit dir zu Zweit &amp; Eventerei<br>",
-                    "<b>LOCATION</b><br>Weingut Domäne Wachau &amp; Restaurant Loibnerhof",
-                    ""
+                    "<b>LOCATION</b><br>Weingut Domäne Wachau &amp; Restaurant Loibnerhof"
                 ],
                 "impressionImage1": {
                     "url": "/img/impression4-image1.jpg",
@@ -206,7 +195,7 @@
             "thumbnail": {
                 "name": "impression1-image2-thumbnail.jpg",
                 "width": "650",
-                "height": "350"
+                "height": "500"
             }
         },
         "impressionSection1GalleryImage3": {
@@ -246,7 +235,7 @@
             "thumbnail": {
                 "name": "impression2-image2-thumbnail.jpg",
                 "width": "650",
-                "height": "350"
+                "height": "500"
             }
         },
         "impressionSection2GalleryImage3": {
@@ -286,7 +275,7 @@
             "thumbnail": {
                 "name": "impression3-image2-thumbnail.jpg",
                 "width": "650",
-                "height": "350"
+                "height": "500"
             }
         },
         "impressionSection3GalleryImage3": {
@@ -326,7 +315,7 @@
             "thumbnail": {
                 "name": "impression4-image2-thumbnail.jpg",
                 "width": "650",
-                "height": "350"
+                "height": "500"
             }
         },
         "impressionSection4GalleryImage3": {
@@ -348,131 +337,6 @@
                 "width": "650",
                 "height": "350"
             }
-        }
-    },
-    "impressionSection1GalleryImage1": {
-        "name": "impression1-image1.jpg",
-        "width": "1920",
-        "height": "1080",
-        "thumbnail": {
-            "name": "impression1-image1-thumbnail.jpg",
-            "width": "650",
-            "height": "350"
-        }
-    },
-    "impressionSection1GalleryImage2": {
-        "name": "impression1-image2.jpg",
-        "width": "1920",
-        "height": "1080",
-        "thumbnail": {
-            "name": "impression1-image2-thumbnail.jpg",
-            "width": "650",
-            "height": "350"
-        }
-    },
-    "impressionSection1GalleryImage4": {
-        "name": "impression1-image4.jpg",
-        "width": "1920",
-        "height": "1080",
-        "thumbnail": {
-            "name": "impression1-image4-thumbnail.jpg",
-            "width": "650",
-            "height": "350"
-        }
-    },
-    "impressionSection1GalleryImage3": {
-        "name": "impression1-image3.jpg",
-        "width": "1920",
-        "height": "1080",
-        "thumbnail": {
-            "name": "impression1-image3-thumbnail.jpg",
-            "width": "650",
-            "height": "350"
-        }
-    },
-    "impressionSection2GalleryImage2": {
-        "name": "impression2-image2.jpg",
-        "width": "1920",
-        "height": "1080",
-        "thumbnail": {
-            "name": "impression2-image2-thumbnail.jpg",
-            "width": "650",
-            "height": "350"
-        }
-    },
-    "impressionSection2GalleryImage1": {
-        "name": "impression2-image1.jpg",
-        "width": "1920",
-        "height": "1080",
-        "thumbnail": {
-            "name": "impression2-image1-thumbnail.jpg",
-            "width": "650",
-            "height": "350"
-        }
-    },
-    "impressionSection2GalleryImage3": {
-        "name": "impression2-image3.jpg",
-        "width": "1920",
-        "height": "1080",
-        "thumbnail": {
-            "name": "impression2-image3-thumbnail.jpg",
-            "width": "650",
-            "height": "350"
-        }
-    },
-    "impressionSection2GalleryImage4": {
-        "name": "impression2-image4.jpg",
-        "width": "1920",
-        "height": "1080",
-        "thumbnail": {
-            "name": "impression2-image4-thumbnail.jpg",
-            "width": "650",
-            "height": "350"
-        }
-    },
-    "bannerImageRow": {
-        "name": "impressionen.jpg",
-        "width": "1920",
-        "height": "440"
-    },
-    "impressionSection3GalleryImage2": {
-        "name": "impression3-image2.jpg",
-        "width": "1920",
-        "height": "1080",
-        "thumbnail": {
-            "name": "impression3-image2-thumbnail.jpg",
-            "width": "650",
-            "height": "350"
-        }
-    },
-    "impressionSection3GalleryImage1": {
-        "name": "impression3-image1.jpg",
-        "width": "1920",
-        "height": "1080",
-        "thumbnail": {
-            "name": "impression3-image1-thumbnail.jpg",
-            "width": "650",
-            "height": "350"
-        }
-    },
-    "impressionSection3GalleryImage3": {
-        "name": "impression3-image3.jpg",
-        "width": "1920",
-        "height": "1080",
-        "thumbnail": {
-            "name": "impression3-image3-thumbnail.jpg",
-            "width": "650",
-            "height": "350"
-        }
-    },
-    "impressionSection3GalleryImage4": {
-        "name": "impression3-image4.jpg",
-        "width": "1920",
-        "height": "1080",
-        "thumbnail": {
-            "name": "impression3-image4-thumbnail.jpg",
-            "width": "650",
-            "height": "350"
         }
     }
 }

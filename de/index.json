@@ -149,55 +149,5 @@
             "width": "150",
             "height": "150"
         }
-    },
-    "bannerImageRow": {
-        "name": "start.jpg",
-        "width": "1920",
-        "height": "440"
-    },
-    "introImage": {
-        "name": "startpage-intro-image.jpg",
-        "width": "300",
-        "height": "400"
-    },
-    "bannerBackgroundHochzeiten": {
-        "name": "startpage-banner-hochzeiten-background.jpg",
-        "width": "960",
-        "height": "300"
-    },
-    "cardLink4": {
-        "name": "card-link4-image.jpg",
-        "width": "960",
-        "height": "400"
-    },
-    "bannerBackgroundEvents": {
-        "name": "startpage-banner-events-background.jpg",
-        "width": "960",
-        "height": "300"
-    },
-    "showcaseImage1": {
-        "name": "showcase-image1.jpg",
-        "width": "150",
-        "height": "150"
-    },
-    "showcaseImage2": {
-        "name": "showcase-image2.jpg",
-        "width": "150",
-        "height": "150"
-    },
-    "cardLink3": {
-        "name": "card-link3-image.jpg",
-        "width": "960",
-        "height": "400"
-    },
-    "cardLink1": {
-        "name": "card-link1-image.jpg",
-        "width": "960",
-        "height": "400"
-    },
-    "cardLink2": {
-        "name": "card-link2-image.jpg",
-        "width": "960",
-        "height": "400"
     }
 }

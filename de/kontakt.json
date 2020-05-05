@@ -59,15 +59,5 @@
             "width": "280",
             "height": "470"
         }
-    },
-    "kontaktImage": {
-        "name": "kontakt-image.jpg",
-        "width": "280",
-        "height": "470"
-    },
-    "bannerImageRow": {
-        "name": "kontakt.jpg",
-        "width": "1920",
-        "height": "440"
     }
 }
