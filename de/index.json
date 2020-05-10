@@ -3,7 +3,7 @@
     "pageTitle": "Eventerei",
     "pageLocale": "de_DE",
     "pageURL": "https://eventerei.at",
-    "pageDescription": "Sample Page Description",
+    "pageDescription": "Kreativagentur aus Graz: Hochzeits- und Eventplanung, neugedachte Traditionen, naturnahe Details &amp; Inspirationen, Podcast",
     "pageImageURL": "https://eventerei.at/img/logo.svg",
     "pageType": "website",
     "sharedContent": {
@@ -58,7 +58,7 @@
         "cardLink3": {
             "title": "A LOVE for Details.",
             "subtitle": "Mehr zu Impressionen...",
-            "ref": "#no-link-yet"
+            "ref": "/impressionen.html"
         },
         "cardLink4": {
             "title": "Roter Faden von der Idee bis zum Applaus.",
