@@ -35,6 +35,11 @@
         "copyrightBlockParagraph": "Copyright 2020"
     },
     "content": {
+        "bannerCarouselImages": [
+            {
+                "url": "/img/banner-carousel-image1.jpg"
+            }
+        ],
         "pageQuoteQuote": "Events &amp; Weddings&nbsp;",
         "pageQuoteSignature": "&nbsp;Eventerei by Sabina Wachmann",
         "introTextTitle": "Details meet Emotions&nbsp;",
@@ -79,8 +84,8 @@
         ]
     },
     "images": {
-        "bannerImageRow": {
-            "name": "start.jpg",
+        "bannerCarouselImage1": {
+            "name": "banner-carousel-image1.jpg",
             "width": "1920",
             "height": "440"
         },
