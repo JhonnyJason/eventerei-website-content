@@ -18,7 +18,7 @@
         "menuLinkFaq": "FAQ",
         "menuLinkKontakt": "Kontakt",
         "impressumLink": {
-            "text": "Impressum",
+            "text": "Impressum&nbsp; Datenschutz",
             "ref": "/impressum.html"
         },
         "agbLink": {
