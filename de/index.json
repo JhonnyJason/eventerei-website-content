@@ -38,9 +38,6 @@
         "bannerCarouselImages": [
             {
                 "url": "/img/banner-carousel-image1.jpg"
-            },
-            {
-                "url": "/img/banner-carousel-image2.jpg"
             }
         ],
         "pageQuoteQuote": "EVENTS &amp; WEDDINGS",
@@ -156,11 +153,6 @@
             "name": "showcase-image5.jpg",
             "width": "150",
             "height": "150"
-        },
-        "bannerCarouselImage2": {
-            "name": "banner-carousel-image2.jpg",
-            "width": "1920",
-            "height": "440"
         }
     }
 }
