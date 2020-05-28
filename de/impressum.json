@@ -26,7 +26,7 @@
             "ref": "/AGB.pdf"
         },
         "datenschutzLink": {
-            "text": "Datenschutz",
+            "text": "Bilderverzeichnis",
             "ref": "/impressum.html"
         },
         "contactBlockTitle": "Kontakt",
@@ -57,7 +57,7 @@
                 ]
             }
         ],
-        "pageQuoteQuote": "Impressum & Datenschutz",
+        "pageQuoteQuote": "Bildmaterial",
         "pageQuoteSignature": "Eventerei by Sabina Wachmann",
         "quoteQuote": "Alles, worauf die Liebe wartet, ist die Gelegenheit.",
         "quoteAuthor": "Miguel de Cervantes"
