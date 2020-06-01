@@ -140,7 +140,7 @@
             "ref": "/img/tools-image4.jpg"
         },
         "toolsFormAction": "https://formspree.io/sabina@eventerei.at",
-        "toolsFormMessageLabel": "Ich interessiere mich für",
+        "toolsFormMessageLabel": "Deine Nachricht an Mich:",
         "toolsFormAmountLabel": "Anzahl",
         "toolsFormDateLabel": "Datum der Veranstaltung",
         "toolsFormEmailLabel": "E-Mail Adresse",
