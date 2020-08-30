@@ -143,31 +143,6 @@
             "width": "960",
             "height": "400"
         },
-        "showcaseImage1": {
-            "name": "showcase-image1.jpg",
-            "width": "150",
-            "height": "150"
-        },
-        "showcaseImage2": {
-            "name": "showcase-image2.jpg",
-            "width": "150",
-            "height": "150"
-        },
-        "showcaseImage3": {
-            "name": "showcase-image3.jpg",
-            "width": "150",
-            "height": "150"
-        },
-        "showcaseImage4": {
-            "name": "showcase-image4.jpg",
-            "width": "150",
-            "height": "150"
-        },
-        "showcaseImage5": {
-            "name": "showcase-image5.jpg",
-            "width": "150",
-            "height": "150"
-        },
         "bannerCarouselImage2": {
             "name": "banner-carousel-image2.jpg",
             "width": "1920",
