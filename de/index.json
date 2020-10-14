@@ -101,12 +101,12 @@
         "bannerCarouselImage1": {
             "name": "banner-carousel-image1.jpg",
             "width": "1920",
-            "height": "440"
+            "height": "745"
         },
         "mobileBannerImageRow": {
             "name": "start-mobile.jpg",
             "width": "600",
-            "height": "440"
+            "height": "600"
         },
         "bannerBackgroundEvents": {
             "name": "startpage-banner-events-background.jpg",
